@@ -1,5 +1,5 @@
 function initialize() {
-    $.ajax({
+//     $.ajax({
 //         url:`https://api.population.io:80/1.0/population/2018/Pakistan/`,
 //         success: function (data) {
 //             console.log(data);
