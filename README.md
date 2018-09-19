@@ -4,13 +4,13 @@
 
 # Made by following links:
 
-## Chart.js: https://www.chartjs.org/
+Chart.js: https://www.chartjs.org/
 
-## jQuery: https://jquery.com/
+jQuery: https://jquery.com/
 
-## World Population API: http://api.population.io/
+World Population API: http://api.population.io/
 
-## Font Awesome: https://fontawesome.com/
+Font Awesome: https://fontawesome.com/
 
-## Bootstrap: https://getbootstrap.com/
+Bootstrap: https://getbootstrap.com/
 
